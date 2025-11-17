@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Marko Darkovic",
+    "department": "IT",
+    "email": "marko.markovic@example.com",
+    "title": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Maria Ilic",
+    "department": "HR",
+    "email": "maria.maric@example.com",
+    "title": "HR Specialist"
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "department": "Finance",
+    "email": "john.smith@example.com",
+    "title": "Project Manager"
+  }
+]
