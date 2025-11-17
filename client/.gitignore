@@ -29,7 +29,7 @@ pnpm-debug.log*
 # ---------------------------
 # Frontend (React)
 # ---------------------------
-client/node_modules/
+client/node_modules/*
 client/build/
 client/.env
 client/.env.local
@@ -45,7 +45,7 @@ client/coverage/
 # ---------------------------
 # Backend (Node/Express)
 # ---------------------------
-server/node_modules/
+server/node_modules/*
 server/.env
 server/.env.local
 server/.env.development
